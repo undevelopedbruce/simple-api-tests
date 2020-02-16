@@ -1,4 +1,7 @@
-# Moo Code Test 2
+# Code Test 2
+Testing scenarios for the jsonplaceholder mock api, using mocha and the chai
+assertion library.
+
 This project uses the package manager Yarn.
 Installation instructions are [here](https://classic.yarnpkg.com/en/docs/install#mac-stable)
 
